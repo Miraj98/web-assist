@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/web-assist/static/js/runtime~main.2537f6a2.js"
   },
   {
-    "revision": "3604af6d2c742cf03e8b",
-    "url": "/web-assist/static/js/main.02543aea.chunk.js"
+    "revision": "63883e1a615a310dc08f",
+    "url": "/web-assist/static/js/main.bf33febb.chunk.js"
   },
   {
     "revision": "2abd2343021ef74ad1ea",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/web-assist/static/css/2.cff3fc8d.chunk.css"
   },
   {
-    "revision": "785aede9db054a1f329f12136821ddcd",
+    "revision": "bd37e14f3c9b8c4c66ec3e793e5f3ca1",
     "url": "/web-assist/index.html"
   }
 ];
